@@ -5,9 +5,9 @@ except:
         # Set true if its VPS
         IS_VPS = False
         
-        API_HASH = ""
-        API_ID = 0
-        BOT_TOKEN = ""
+        API_HASH = "58af626343da6313c01ba24489d3d550"
+        API_ID = 1415735
+        BOT_TOKEN = "6763150870:AAGMPMPu2vRbxEOghHOENxrdpxlOFaqa6Yc"
         BASE_URL_OF_BOT = ""
 
         # Edit the server port if you want to keep it default though.
